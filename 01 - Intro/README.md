@@ -40,11 +40,11 @@ Descripción:
 
 
 - **Practicas**
-	- [Toma de requerimientos](./1.-requerimientos.pdf)
-    - [Crea tu buyer persona](./2.-buyerPersona.pdf)
-	- [Publico objetivo](./3.-publicoObjetivo.pdf)
-	- [Crea tu primer Wireframe UX](./4.-wireframe.pdf)
-	- [Ahora el UI](./5.-ui.pdf)
+	- [Toma de requerimientos](https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/1.-Reqierimientos.pdf)
+    - [Crea tu buyer persona](https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/2.-buyerPersona.pdf)
+	- [Publico objetivo](.https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/3.-publicoObjetivo.pdf)
+	- [Crea tu primer Wireframe UX](https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/4.-wireframe.pdf)
+	- [Ahora el UI](https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/5.-ui.pdf)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
