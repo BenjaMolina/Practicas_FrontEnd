@@ -42,7 +42,7 @@ Descripción:
 - **Practicas**
 	- [Toma de requerimientos](https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/1.-Reqierimientos.pdf)
     - [Crea tu buyer persona](https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/2.-buyerPersona.pdf)
-	- [Publico objetivo](.https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/3.-publicoObjetivo.pdf)
+	- [Publico objetivo](https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/3.-publicoObjetivo.pdf)
 	- [Crea tu primer Wireframe UX](https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/4.-wireframe.pdf)
 	- [Ahora el UI](https://github.com/BenjaMolina/Practicas_FrontEnd/blob/master/01%20-%20Intro/5.-ui.pdf)
 
