@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokedex LaunchX</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    
+</head>
+<body>
+    <div class="container">
+        <div class="izquierda">
+            <div class="titulo">
+                <div class="circulo_grande"></div>
+                <div class="circulo_mediano"></div>
+                <div class="circulo_chico"></div>
+            </div>
+            <div class="buscador" id="buscador">
+                <input type="text" name="pokemon" id="pokemon" placeholder="Nombre Pokemon">
+                <button type="button" onclick="buscar()">Buscar</button>
+            </div>
+            <div class="informacion">
+                <h4 id="nombre">Vulpix </h4>
+                <p>VIDA: <span id="vida">38 HP</span></p>
+                <p>ATAQUE: <span id="ataque">38 HP</span></p>
+                <p>ATAQUE-ESPECIAL: <span id="a_especial">38 HP</span></p>
+                <p>DEFENSA-ESPECIAL: <span id="d_especial">38 HP</span></p>
+                <p>VELOCIDAD:: <span id="velocidad">38 HP</span></p>
+            </div>
+        </div>
+        <div class="derecha">
+            <div class="imagen_pokemon">
+                <div class="imagen">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png" alt="Pokémon" id="imagen_pokemon">
+                </div>
+                <div class="controles">
+                    <p>Altura: <span id="altura">0</span></p>
+                    <p>Peso: <span id="peso">0</span></p>
+                </div>
+            </div>
+            <div class="informacion" id="info_pokemon">
+            </div>
+        </div>
+    </div>
+</body>
+<footer>
+    <script src="./js/index.js"></script>
+</footer>
+</html>
